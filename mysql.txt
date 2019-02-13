@@ -1,0 +1,4 @@
+CREATE TABLES bbs;
+bbsID, bbsTitle, userID, bbsData, bbsContent, bbsAvailable
+CREATE TABLES user;
+userID, userPassword, userName, userGender, userEmail
